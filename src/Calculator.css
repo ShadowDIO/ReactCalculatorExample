@@ -1,3 +1,7 @@
+.calculatorSectionContainer{
+    width:440px;
+}
+
 .resultDisplay {
     background-color: lightgray;
     margin:2px;
